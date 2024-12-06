@@ -59,12 +59,12 @@ submission-lab1/
 
 ## Screenshot of the starter kit running on localhost
 
-  ![Deliverable 1 - localhost](/screenshots/lab1-task2-localhost.png)
+  ![Deliverable 1 - localhost](/submission-lab1/screenshots/lab1-task2-localhost.png)
   
-  ![Deliverable 1 - localhost page](/screenshots/lab1-task2-localhost-page.png)
+  ![Deliverable 1 - localhost page](/submission-lab1/screenshots/lab1-task2-localhost-page.png)
 
 ## Feature Screenshots
 
 - **Feature Home page**:
 
-    ![Feature home page](/screenshots/lab1-task1.png)
+    ![Feature home page](/submission-lab1/screenshots/lab1-task1.png)
